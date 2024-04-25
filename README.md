@@ -1,4 +1,4 @@
-### Olá eu sou Lucas Santana
+### Olá eu sou Lucas Rossatto
 [![@linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasrossatto/)
 
 ### Estudante técnico de Desenvolvimento de Sistemas no Senai
