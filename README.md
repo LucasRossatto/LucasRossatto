@@ -2,13 +2,15 @@
   <img src="https://imgur.com/TukYa6J.png" style="width: 100%;" />
 </div>  
 
-## 👋 Sobre mim
+## 👋 Sobre mim / About me
 
 Sou um desenvolvedor apaixonado por tecnologia, com mais de 2 anos de experiência criando soluções que colocam a experiência do usuário em primeiro lugar. Tenho atuação sólida no desenvolvimento de aplicações web, mobile e backend, sempre utilizando tecnologias modernas, versionamento de código, metodologias ágeis e boas práticas de programação.
 
+Developer passionate about technology, with over 2 years of experience in the area, focused on offering the best user experience. I have solid experience in developing web and mobile applications and backend systems, using modern technologies, versioning tools, agile methodologies and good programming practices.
+
 ---
 
-## 🧠 Minhas habilidades
+## 🧠 Minhas habilidades / My skills
 
 <table>
 <tr>
@@ -69,9 +71,9 @@ Sou um desenvolvedor apaixonado por tecnologia, com mais de 2 anos de experiênc
 
 ---
 
-## 🌍 Onde me encontrar
+## 🌍 Onde me encontrar / How find me
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/LucasRossatto" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -82,16 +84,16 @@ Sou um desenvolvedor apaixonado por tecnologia, com mais de 2 anos de experiênc
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub / Github Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasrossatto&show_icons=true&count_private=true&hide_border=true" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrossatto&hide_border=true&layout=compact" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=lucasrossatto&&style=flat-square" />
 </div>
