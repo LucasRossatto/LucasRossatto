@@ -48,7 +48,6 @@ Developer passionate about technology, with over 2 years of experience in the ar
   <a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" height="50" /></a>  
   <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" /></a>  
   <a href="https://spring.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" /></a>  
 </div>
 
