@@ -88,11 +88,11 @@ Developer passionate about technology, with over 2 years of experience in the ar
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrossatto&layout=pie&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrossatto&layout=pie&hide_border=true&custom_title=Top%20Linguagens" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lucasrossatto&show_icons=true&count_private=true&hide_border=true" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrossatto&hide_border=true&layout=compact" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasrossatto&show_icons=true&count_private=true&hide_border=true&custom_title=Status%20do%20Github" /><br/>
+      <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRossatto" />-->      
       <img src="https://komarev.com/ghpvc/?username=lucasrossatto&&style=flat-square" />
     </td>
   </tr>
