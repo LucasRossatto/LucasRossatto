@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/TukYa6J.png" style="width: 100%;" />
+  <img src="https://imgur.com/WIKYaKI.png" style="width: 100%;" />
 </div>  
 
 ## 👋 Sobre mim / About me
