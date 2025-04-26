@@ -73,9 +73,6 @@ Developer passionate about technology, with over 2 years of experience in the ar
 ## 🌍 Onde me encontrar / How find me
 
 <div align="left">
-  <a href="https://github.com/LucasRossatto" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/lucasrossatto" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>  
