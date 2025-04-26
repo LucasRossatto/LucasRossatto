@@ -85,14 +85,19 @@ Developer passionate about technology, with over 2 years of experience in the ar
 
 ## 📊 Estatísticas do GitHub / Github Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasrossatto&show_icons=true&count_private=true&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrossatto&layout=pie&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasrossatto&show_icons=true&count_private=true&hide_border=true" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrossatto&hide_border=true&layout=compact" /><br/>
+      <img src="https://komarev.com/ghpvc/?username=lucasrossatto&&style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrossatto&hide_border=true&layout=compact" />
-</div>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=lucasrossatto&&style=flat-square" />
-</div>
+
+
